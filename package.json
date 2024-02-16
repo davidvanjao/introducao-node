@@ -1,0 +1,20 @@
+{
+  "name": "introducao-node",
+  "version": "1.0.0",
+  "description": "Introdução Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidvanjao/introducao-node.git"
+  },
+  "keywords": ["NodeJS", "Introdução"],
+  "author": "David Vanjão",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidvanjao/introducao-node/issues"
+  },
+  "homepage": "https://github.com/davidvanjao/introducao-node#readme"
+}
