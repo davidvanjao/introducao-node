@@ -4,4 +4,6 @@ let nome;
 
 nome = entrada('Digite seu nome: ');
 
-console.log(nome);
+console.log(`o nome digitado foi: ${nome}`);
+
+entrada('Pressione ENTER para encerrar!');
